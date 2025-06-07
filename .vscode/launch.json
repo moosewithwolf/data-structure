@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shin/Documents/SCHOOL/personal/data-structure/data-structure/1.base",
+      "program": "/Users/shin/Documents/SCHOOL/personal/data-structure/data-structure/1.base/build/Debug/outDebug"
+    }
+  ]
+}
